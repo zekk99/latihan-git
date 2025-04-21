@@ -1,1 +1,1 @@
-# latihan-git
+Ini latihan pertama belajar git.
