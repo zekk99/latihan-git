@@ -1,1 +1,2 @@
 Hari ini belajar commit & versi kontrol via github.
+Ini tambahan dari branch edit-notes.
